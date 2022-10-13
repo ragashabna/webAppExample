@@ -24,7 +24,7 @@
 	
 	<build>
 		
-		
+		<finalName>webappExample</finalName>
 		<plugins>
 	<!-- Maven Plugin for Tomcat -->
 	<plugin>
