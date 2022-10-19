@@ -54,4 +54,10 @@
 			
 		</plugins>
 	</build>
+	<distributionManagement>
+		<snapshotRepository>
+			<id>nexus-snapshots</id>
+			<url>http://localhost:8081/repository/abc-snapshot/</url>
+		</snapshotRepository>
+		</distributionManagement>
 </project>
